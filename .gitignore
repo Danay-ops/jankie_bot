@@ -1,0 +1,7 @@
+# created by virtualenv automatically
+*.log
+settings.py
+.idea/
+__pycache__/
+.venv/
+pyvenv.cfg
